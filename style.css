@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+    color: seashell;
+    opacity: 0.9;
+    font-size: 22px;
+}
+
+.height50{
+    height: 50px;
+    margin-left: 10px;
+}
+
+.height700{
+    height: 700px;
+    width: 1200px;
+    border-bottom: 1px solid seashell;
+    
+}
+
+header{
+    height: 69px;
+}
+
+.flex{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+.inline{
+    display: inline;
+}
+
+.heading{
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.underline{
+    text-decoration: underline;
+    margin-left: 30px;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+.container-relative{
+    position: relative;
+}
+
+.width-1000{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+}
+
+.height-200width-300{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.fleximg1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.fleximg2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.margin-left{
+    margin-left: 2rem;
+
+}
+
+.margin-top{
+    margin-top: 2rem;
+
+}
+
+.container2{
+    max-width: 300px;
+    margin-left: 10px;
+}
+
+.height-500{
+    height: 500px;
+    width: 1100px;
+}
+
